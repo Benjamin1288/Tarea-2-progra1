@@ -5,7 +5,7 @@ Console.Write("¿Cual es la edad que tienes actualmente?: ");
 edad = byte.Parse(Console.ReadLine());
 Console.WriteLine("No aparentas "+edad+" años");
 /* Nota: este Console.ReadLine lo puse para hacer pausas en el programa, hasta que no se le de enter
- * el programa no seguira ejecutandose, lo puse al final de cada programa o ejercicio
+ * el programa no seguira ejecutandose, lo puse al final de los programas o ejercicios
  */
 Console.ReadLine();
 
